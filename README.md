@@ -5,6 +5,4 @@ java
 Kotlin
 some new tech
 
-dev
-
-dev
+this is f1 mod
