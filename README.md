@@ -5,4 +5,4 @@ java
 Kotlin
 some new tech
 
-this is f1 mod
+is ok
